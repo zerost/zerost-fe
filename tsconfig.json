@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@zerost/ui-lib/*": ["./packages/ui-lib/app/*"]
+    }
+  }
+}
